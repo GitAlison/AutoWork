@@ -1,0 +1,26 @@
+
+body{background-color: #004F87;}
+.row{margin: 0px;}
+.navbar-inverse{margin-bottom: 0px;}
+.navbar-inverse .navbar-nav>li>a{color: #E3F2FD;}
+.navbar-inverse .navbar-brand{color:#E3F2FD;}
+.minha-nav{background-color: #002C73;border:none;border-radius: 0px;}
+
+#perfil{background-color:rgba(0,0,0,.7) ; color:white;padding: 55px 8px 8px;}
+
+#foto{margin:23px 5px 0px 5px;max-width:180px;min-width: 180px; width: 100%; height: 100%;border-radius: 3px; border:1px solid white;
+	width: 100%;height: 200px;background-image: url("../img/user.jpg");background-size: cover; size:cover;
+	box-shadow: 2px 2px 2px gray;}
+/*#E3F2FD .barra{background-color:#FFFFFF; margin:10px 0px;margin: 15px auto 0px auto ;height: 5px; width: 100%;}*/
+#botoes{margin-right: 4px;float: right;}
+
+#nav-menu { padding: 8px;}
+
+#conteudo{border-radius: 8px; background-color:#DFE2EB;padding: 2px 5px 5px 20px;position:static;}
+#conteudo h3{margin-left: -3px;padding: 4px;border-bottom: 1px solid #002C73;}
+#nav-side-conteudo{min-width: 199px;border-radius: 8px; background-color:rgba(0,0,0,.7);margin-bottom: 15px;}
+#nav-side-conteudo h4{text-align: center;color: white;}
+
+
+.input-simple{padding: 4px;border: none;border-radius: 3px;border:1px solid #BDBDBD;}
+.input-simple:focus{border:0.5px dashed #BDBDBD;}
